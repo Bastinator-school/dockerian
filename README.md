@@ -1,6 +1,6 @@
 # dockerian
-##Just a docker monitor/manager written in laravel. (DO NOT DEPLOY AS PROD)
-### i do not guarentee support nor continued development at any time. It relly depends on when i want to work on it
+## Just a docker monitor/manager written in laravel. (DO NOT DEPLOY AS PROD)
+### I do not guarentee support nor continued development at any time. It relly depends on when i want to work on it
 
 
 This is an amature project using
